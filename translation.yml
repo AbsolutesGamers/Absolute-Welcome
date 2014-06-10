@@ -1,0 +1,8 @@
+welcome:
+  invalidCommand: '&4Invalid Command!'
+  see:
+    sucess: '&5Welcome, &r&2%p&r&5 to the server!'
+    noPermission: '&4You haven''t permission to do this!'
+  set:
+    sucess: '&5The Welcome Message was changed to: "%nm" with sucess!'
+    noPermission: '&4You haven''t permission to do this!'
