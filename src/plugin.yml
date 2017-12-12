@@ -1,5 +1,5 @@
-name: AbsoluteWelcome
-version: 2.0
+﻿name: AbsoluteWelcome
+version: 2.1
 main: tk.absolutesgamers.welcome.Welcome
 author: Absolute
 description: Add a Welcome Message on the server!
